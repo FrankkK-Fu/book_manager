@@ -38,3 +38,5 @@ def delete_book(request):
     else:
         raise RuntimeError("删除图书的method错误")
 
+
+print("lalalalall")
